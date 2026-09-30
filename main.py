@@ -1,0 +1,1 @@
+print("this is nikhil chand\nand i am student")
