@@ -1,5 +1,6 @@
 print("this is nikhil chand\nand i am student")
-print(3.14)
-print(True)
-print(False)
-print(1024)
+a=5
+for i in range(a):
+    for j in range(a-i):
+        print("*",end="")
+    print()
